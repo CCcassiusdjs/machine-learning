@@ -1,15 +1,15 @@
 # Machine Learning Algorithms: k-Nearest Neighbors (k-NN), Naïve Bayes, and Decision Trees
 
 ## Team Members
-- **Arthur Gil dos Santos** - **a.gil@edu.pucrs.br**
-- **Cássio Jones Dhein da Silva** - **c.jones@edu.pucrs.br**
-- **Eduardo Cardoso** - **eduardo.spode01@edu.pucrs.br**
-- **Lucas Bromberg Antunes** - **lucas.antunes@edu.pucrs.br**
-- **Nicolle Canceri Lumertz** - **nicolle.lumertz@edu.pucrs.br**
-- **Rafael Schaker Kopczynski da Rosa** - **rafael.schaker01@edu.pucrs.br**
+- **Arthur Gil dos Santos** - **a.gil@edu.pucrs.br** - 
+- **Cássio Jones Dhein da Silva** - **c.jones@edu.pucrs.br** - 22180214
+- **Eduardo Cardoso** - **eduardo.spode01@edu.pucrs.br** - 
+- **Lucas Bromberg Antunes** - **lucas.antunes@edu.pucrs.br** - 
+- **Nicolle Canceri Lumertz** - **nicolle.lumertz@edu.pucrs.br** - 20103640
+- **Rafael Schaker Kopczynski da Rosa** - **rafael.schaker01@edu.pucrs.br** - 20107315
 
 ## Project Overview
-This project involves the implementation of three machine learning algorithms from scratch: k-Nearest Neighbors (k-NN), Naïve Bayes, and Decision Trees. These implementations were generated using ChatGPT and further analyzed for their performance on different datasets. The goal is to evaluate both the effectiveness of the algorithms and the quality of the prompts used in ChatGPT, as well as to provide critical analysis and potential improvements for the generated code.
+This project involves the implementation of three machine learning algorithms from scratch: k-Nearest Neighbors (k-NN), Naïve Bayes, and Decision Trees. These implementations were generated using ChatGPT and further analyzed for their performance on different datasets. The goal is to evaluate both the effectiveness of the algorithms and the quality of the prompts used in ChatGPT, as well as to provide critical analysis for the generated code.
 
 ## Files Included
 - `KNN.ipynb`: Jupyter Notebook containing the k-Nearest Neighbors (k-NN) algorithm implementation, testing, and critical analysis.
