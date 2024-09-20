@@ -1,10 +1,10 @@
 # Machine Learning Algorithms: k-Nearest Neighbors (k-NN), Naïve Bayes, and Decision Trees
 
 ## Team Members
-- **Arthur Gil dos Santos** - **a.gil@edu.pucrs.br** - 
+- **Arthur Gil dos Santos** - **a.gil@edu.pucrs.br** - 20101221
 - **Cássio Jones Dhein da Silva** - **c.jones@edu.pucrs.br** - 22180214
-- **Eduardo Cardoso** - **eduardo.spode01@edu.pucrs.br** - 
-- **Lucas Bromberg Antunes** - **lucas.antunes@edu.pucrs.br** - 
+- **Eduardo Cardoso** - **eduardo.spode01@edu.pucrs.br** - 20102745
+- **Lucas Bromberg Antunes** - **lucas.antunes@edu.pucrs.br** - 20103332
 - **Nicolle Canceri Lumertz** - **nicolle.lumertz@edu.pucrs.br** - 20103640
 - **Rafael Schaker Kopczynski da Rosa** - **rafael.schaker01@edu.pucrs.br** - 20107315
 
